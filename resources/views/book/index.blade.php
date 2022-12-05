@@ -22,7 +22,6 @@
                         <th class="text-center">著者</th>
                         <th class="text-center">削除</th>
                         <th class="text-center">備考</th>
-                        <th class="text-center">いいね</th>
                     </tr>
                     @foreach($books as $book)
                         <tr>
